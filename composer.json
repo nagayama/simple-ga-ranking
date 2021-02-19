@@ -1,8 +1,13 @@
 {
-  "name": "simple-ga-ranking",
+  "name": "megumiteam/simple-ga-ranking",
   "description": "Simple GA Ranking",
+  "repositories": {
+    "hametuha/gapiwp": {
+      "type": "github",
+      "url": "https://github.com/nagayama/gapiwp"
+    }
+  },
   "require": {
-    "hametuha/gapiwp": "1.0.x"
+    "hametuha/gapiwp": "dev-master"
   }
 }
-
